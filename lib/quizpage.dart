@@ -36,14 +36,7 @@ class _QuizAppState extends State<QuizApp> {
       'option_d': 'Sardar Vallabhbhai Patel',
       'answer': 'Mahatma Gandhi',
     },
-    {
-      'question': 'In which year did India gain independence?',
-      'option_a': '1947',
-      'option_b': '1950',
-      'option_c': '1945',
-      'option_d': '1942 ',
-      'answer': '1947',
-    },
+    
     {
       'question': 'Which Mughal Emperor built the Taj Mahal?',
       'option_a': 'Akbar',
